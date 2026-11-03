@@ -7,3 +7,7 @@ html {
   filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='.Background.jpg', sizingMethod='scale');
   -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='myBackground.jpg', sizingMethod='scale')";
 }
+body {
+  background-color: #000000;
+  color: #FFFFFF;
+  font-family: Segoe UI
